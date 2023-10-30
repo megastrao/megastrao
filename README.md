@@ -1,4 +1,4 @@
-## Olá, meu nome é Gabriel Carvalho
+# Olá, meu nome é Gabriel Carvalho
  <div>
   <a href="https://github.com/megastrao">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=megastrao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
